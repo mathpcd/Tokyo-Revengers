@@ -1,12 +1,11 @@
 .app-2rEoOp {
   background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5) 33%, rgba(0, 0, 0, 0.5) 70%), url(https://pbs.twimg.com/media/D3t_RDxXkAE2PY0.jpg:large);
   background-size: cover;
-  border: 1px;
+  border: 0px;
 }
 
 .standardSidebarView-3F1I7i {
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5) 33%, rgba(0, 0, 0, 0.5) 70%), url(https://pbs.twimg.com/media/D3t_RDxXkAE2PY0.jpg:large);
-  background-image: url();
+  background-image: url(https://pbs.twimg.com/media/D3t_RDxXkAE2PY0.jpg:large);
   background-size: cover;
 }
 
@@ -2412,7 +2411,7 @@
 
 ::-webkit-scrollbar-thumb {
   background-color: #ffffff !important;
-  outline: 1px solid slategrey;
+  outline: 1px solid black;
 }
 
 .replying-1x3H0T:before {
