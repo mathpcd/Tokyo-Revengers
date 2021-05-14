@@ -1,5 +1,5 @@
 .app-2rEoOp {
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.694) 33%, rgba(0, 0, 0, 0.598) 65%), url(https://wallpapercave.com/wp/wp5683083.jpg);
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5) 33%, rgba(0, 0, 0, 0.5) 70%), url(https://wallpapercave.com/wp/wp5683083.jpg);
   background-size: cover;
   border: 1px;
 }
@@ -39,7 +39,7 @@
 .contentRegionScroller-26nc1e,
 .theme-dark .sidebarRegion-VFTUkN,
 .sidebarRegionScroller-3MXcoP {
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: rgba(0, 0, 0, 0.5);
 }
 
 .theme-dark #bd-settings-sidebar .ui-tab-bar-separator,
@@ -67,18 +67,18 @@
 
 .lookOutlined-3sRXeN.colorBrand-3pXr91 {
   color: white;
-  border-color: rgba(0, 0, 0 , 0.5) !important;
+  border-color: rgba(0, 0, 0 , 0.6) !important;
 }
 
 .lookFilled-1Gx00P.colorBrand-3pXr91,
 .lookFilled-1Gx00P.colorBrand-3pXr91:disabled {
   color: #fff;
-  background-color: rgba(0, 0, 0 , 0.5);
-  border: 2px solid rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0 , 0.6);
+  border: 2px solid rgba(0, 0, 0, 0.4);
 }
 
 .lookFilled-1Gx00P.colorBrand-3pXr91:hover {
-  background-color: rgba(0, 0, 0 , 0.5);
+  background-color: rgba(0, 0, 0 , 0.8);
 }
 
 .theme-dark .avatarUploader-3XDtmn .removeButton-1hcZyG {
@@ -97,13 +97,13 @@
 .input-cIJ7To {
   border-radius: 8px;
   color: white;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, .2);
   border: 1px solid transparent;
 }
 
 .input-cIJ7To:hover {
   border-color: transparent;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, .4);
 }
 
 .theme-dark .multiInputLast-1aQ3YA:before {
@@ -316,7 +316,7 @@
 
 .rtcConnectionStatusConnected-VRZDjy>div::after {
   content: 'Salmon';
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .rtcConnectionStatusConnecting-3322Pa>div {
@@ -708,7 +708,7 @@
 
 .theme-dark .contentTitle-2tG_sM strong,
 .theme-dark .descriptionDiscriminator-3vUOCc {
-  color: silver;
+  color: black;
 }
 
 .theme-dark .divider-23swzi {
@@ -806,7 +806,7 @@
 }
 
 .standardSidebarView-3F1I7i #bd-customcss-attach-controls button, .bd-detached-css-editor #bd-customcss-attach-controls button {
-  background: rgba(0, 0, 0 , 0.87) !important;
+  background: rgba(0, 0, 0 , 0.5) !important;
   border: none !important;
   margin-right: 2px;
   border-radius: 10px;
@@ -1896,7 +1896,7 @@
 
 .userPopout-3XzG_A {
   box-shadow: none;
-  border-radius: 10px;
+  border-radius: 40px;
   background-size: cover;
   background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f470f880-0c84-4aba-becb-735763b9093b/defasuv-c6844809-634b-4a74-b3a0-8dc91eb62168.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y0NzBmODgwLTBjODQtNGFiYS1iZWNiLTczNTc2M2I5MDkzYlwvZGVmYXN1di1jNjg0NDgwOS02MzRiLTRhNzQtYjNhMC04ZGM5MWViNjIxNjgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.K9fjbq-uyRhqt3gWuzdhaQgbptT5VQFJhDgK_wdVFZ4) 30%/cover;
   ;
@@ -1941,8 +1941,8 @@
 }
 
 .root-SR8cQa {
-  border-radius: 12px;
-  background: url(https://static.wikia.nocookie.net/tokyo-revengers/images/d/d1/Toman_Symbol.jpg/revision/latest?cb=20200929104257) 35%/cover;
+  border-radius: 5px;
+  background: url(https://static.wikia.nocookie.net/tokyo-revengers/images/d/d1/Toman_Symbol.jpg/revision/latest?cb=20200929104257) 60%/cover;
 }
 
 .theme-dark .body-3iLsc4,
@@ -1968,7 +1968,7 @@
 .userInfoSectionHeader-CBvMDh {
   font-weight: 400;
   text-transform: capitalize;
-  color: silver;
+  color: black;
 }
 
 .note-3kmerW textarea:focus {
