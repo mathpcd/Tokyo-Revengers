@@ -1,0 +1,2 @@
+# Tokyo-Revengers
+theme discord
