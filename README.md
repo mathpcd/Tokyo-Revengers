@@ -24,7 +24,7 @@
 }
 
 .colorDefault-2K3EoJ:active:not(.hideInteraction-1iHO1O) {
-  background-color: rgba(0, 0, 0, .33);
+  background-color: rgba(0, 0, 0, 0.5);
   color: #fff;
 }
 
@@ -39,7 +39,7 @@
 .contentRegionScroller-26nc1e,
 .theme-dark .sidebarRegion-VFTUkN,
 .sidebarRegionScroller-3MXcoP {
-  background-color: rgba(0, 0, 0, 0.607);
+  background-color: rgba(0, 0, 0, 0.6);
 }
 
 .theme-dark #bd-settings-sidebar .ui-tab-bar-separator,
@@ -62,23 +62,23 @@
 }
 
 .theme-dark .closeButton-1tv5uR:hover {
-  background-color: rgba(0, 0, 0 , 0.37);
+  background-color: rgba(0, 0, 0 , 0.5);
 }
 
 .lookOutlined-3sRXeN.colorBrand-3pXr91 {
   color: white;
-  border-color: rgba(0, 0, 0 , 0.66) !important;
+  border-color: rgba(0, 0, 0 , 0.5) !important;
 }
 
 .lookFilled-1Gx00P.colorBrand-3pXr91,
 .lookFilled-1Gx00P.colorBrand-3pXr91:disabled {
   color: #fff;
-  background-color: rgba(0, 0, 0 , 0.8);
-  border: 2px solid rgba(0, 0, 0, 0.237);
+  background-color: rgba(0, 0, 0 , 0.5);
+  border: 2px solid rgba(0, 0, 0, 0.5);
 }
 
 .lookFilled-1Gx00P.colorBrand-3pXr91:hover {
-  background-color: rgba(0, 0, 0 , 0.9);
+  background-color: rgba(0, 0, 0 , 0.5);
 }
 
 .theme-dark .avatarUploader-3XDtmn .removeButton-1hcZyG {
@@ -87,7 +87,7 @@
 
 .input-cIJ7To:focus {
   border-color: #808080 !important;
-  background-color: rgba(0, 0, 0, .4);
+  background-color: rgba(0, 0, 0, 0.5);
 }
 
 .input-cIJ7To.focused-1mmYsC {
@@ -97,13 +97,13 @@
 .input-cIJ7To {
   border-radius: 8px;
   color: white;
-  background-color: rgba(0, 0, 0, .2);
+  background-color: rgba(0, 0, 0, 0.5);
   border: 1px solid transparent;
 }
 
 .input-cIJ7To:hover {
   border-color: transparent;
-  background-color: rgba(0, 0, 0, .4);
+  background-color: rgba(0, 0, 0, 0.5);
 }
 
 .theme-dark .multiInputLast-1aQ3YA:before {
