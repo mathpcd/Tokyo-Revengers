@@ -554,7 +554,7 @@
 }
 
 .grabber-3mFHz2 {
-  background-image: url("https://64.media.tumblr.com/6a397efa8e8fae16df810fedc87e15d9/08ba3cadbc14dd94-46/s1280x1920/5276beba970624824706c50e0631afd088fb6b5b.jpg");
+  background-image: url("https://static.wikia.nocookie.net/tokyo-revengers/images/d/d1/Toman_Symbol.jpg/revision/latest?cb=20200929104257");
   border: none;
   box-shadow: none;
   background-size: cover;
@@ -1842,11 +1842,11 @@
 }
 
 .uploadArea-3QgLtW {
-  background: rgba(0, 0, 0, .8);
+  background: rgba(0, 0, 0, 0.6);
 }
 
 .uploadArea-3QgLtW .uploadDropModal-2kTwbc .bgScale-1otPtc {
-  background: radial-gradient(ellipse at center, #808080 0%, #171717 100%);
+  background: radial-gradient(ellipse at center, #1f1f1f 0%, #171717 100%);
   border: none;
 }
 
@@ -1882,21 +1882,21 @@
 .lookInverted-2D7oAl.colorGreen-29iAKY {
   color: white;
   background-color: transparent;
-  border: 2px solid #12C60F;
+  border: 2px solid #3a0457;
 }
 
 .lookInverted-2D7oAl.colorGreen-29iAKY:hover {
   color: white;
-  background-color: #12C60F !important;
+  background-color: #3a0457 !important;
 }
 
 .liveRed-lUmv1v {
-  background-color: #808080 !important;
+  background-color: #1f1f1f!important;
 }
 
 .userPopout-3XzG_A {
   box-shadow: none;
-  border-radius: 25px;
+  border-radius: 10px;
   background-size: cover;
   background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f470f880-0c84-4aba-becb-735763b9093b/defasuv-c6844809-634b-4a74-b3a0-8dc91eb62168.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y0NzBmODgwLTBjODQtNGFiYS1iZWNiLTczNTc2M2I5MDkzYlwvZGVmYXN1di1jNjg0NDgwOS02MzRiLTRhNzQtYjNhMC04ZGM5MWViNjIxNjgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.K9fjbq-uyRhqt3gWuzdhaQgbptT5VQFJhDgK_wdVFZ4) 30%/cover;
   ;
@@ -1907,11 +1907,11 @@
 }
 
 .headerPlaying-j0WQBV {
-  background: rgba(91, 22, 58, 0.68);
+  background: rgba(0, 0, 0, 0.5);
 }
 
 .topSectionPlaying-1J5E4n {
-  background: rgba(46, 77, 162, 0.5);
+  background: rgba(0, 0, 0, 0.5);
 }
 
 .headerSpotify-zpWxgT,
@@ -1942,7 +1942,7 @@
 
 .root-SR8cQa {
   border-radius: 12px;
-  background: url(https://64.media.tumblr.com/32d07d7475fc2851102d0825a37e0788/21f0d69f687baefc-82/s1280x1920/cc61e21183cce2be8ee9792add6f2371e5754e62.jpg) 35%/cover;
+  background: url(https://static.wikia.nocookie.net/tokyo-revengers/images/d/d1/Toman_Symbol.jpg/revision/latest?cb=20200929104257) 35%/cover;
 }
 
 .theme-dark .body-3iLsc4,
@@ -2487,7 +2487,7 @@
 }
 
 .theme-dark .ctaBar-2UsjF2{
-    background-image: url(https://i.pinimg.com/originals/8c/86/ba/8c86ba058fc14cf1de0dc899f8dab32c.jpg);
+    background-image: url(https://64.media.tumblr.com/8c56bf39be3210e6b6b37d66a97362d5/08ba3cadbc14dd94-94/s1280x1920/e15388d70debd3dd9b1458e6cc742ededac98a8e.jpg);
 }
 
 .ctaBar-2UsjF2{
@@ -2523,7 +2523,7 @@
 }
 
 .wrapper-3nSjSv:before{
-    background-image: url(https://static.wikia.nocookie.net/tokyo-revengers/images/d/d1/Toman_Symbol.jpg/revision/latest/top-crop/width/360/height/450?cb=20200929104257);
+    background-image: url(https://static.wikia.nocookie.net/tokyo-revengers/images/d/d1/Toman_Symbol.jpg/revision/latest?cb=20200929104257);
     background-size: 100px 100px;
 }
 
@@ -2538,11 +2538,10 @@ svg.homeIcon-FuNwkv{
     color:transparent;
 }
 .homeIcon-FuNwkv{
-    background-image: url("https://static.wikia.nocookie.net/tokyo-revengers/images/d/d1/Toman_Symbol.jpg/revision/latest/top-crop/width/360/height/450?cb=20200929104257");
+    background-image: url("https://static.wikia.nocookie.net/tokyo-revengers/images/d/d1/Toman_Symbol.jpg/revision/latest?cb=20200929104257");
     background-size: cover;
     background-position: center;
 }
 #app-mount .content-1o0f9g{
     background-color: black;
 }
-
