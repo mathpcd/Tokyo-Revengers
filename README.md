@@ -1,3 +1,4 @@
+app-2rEoOp {
 .userPopout-3XzG_A {
   box-shadow: none;
   border-radius: 5px;
